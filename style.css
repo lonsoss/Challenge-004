@@ -87,7 +87,8 @@ header nav ul li:hover::before{
 /* Left-Section */
 
 .left-section{
-    width: 40%;
+    width: 50%;
+    padding-right: 15rem;
     position: absolute;
     transform: translateY(-50%);
     top: 55%;
